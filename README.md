@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning new things and getting high grades in school
 - 🌱 I’m currently learning python
 - 📫 jinanmswi47@gmail.com
-- 👸🏻 My age is 12 years old
+- Deleted by Hussein

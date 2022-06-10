@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Jinan47
-- 👀 I’m interested in learning programming laguages, especailly python
-- 🌱 I’m currently learning python
-- 📫 jinanmswi47@gmail.com
-- 🔽 I worked on 3 big projects, and I'm recently working on a repository with @allwahussien
+- This work is done by @Jinan47 & the help of @allawhussien
+- This project can edit, add, view, contacts
+- It contains email address, phone number, and the contact's name

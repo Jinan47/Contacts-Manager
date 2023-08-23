@@ -38,7 +38,6 @@ Upon running the script, you will be presented with a simple command-line interf
 - To add a new contact, choose option `1` and follow the prompts to enter contact details.
 - To edit an existing contact, choose option `2` and follow the prompts to update information.
 - To view the list of all contacts, choose option `3`.
-- To search for a contact, choose option `4` and enter the search query.
 
 ## Example
 
